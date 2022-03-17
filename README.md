@@ -1,4 +1,4 @@
-Hello! I'm @antoniovpires 👨🏻‍💻
+Hello! I'm @antoniovpires 👨🏻‍💻 <br>
 I'm currently learning Front-End Frameworks!
 
 Feel free to reach me through my e-mail: 
