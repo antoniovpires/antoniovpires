@@ -19,7 +19,7 @@ Currently, I am working on my own projects to acquire experience and boost my co
 
 My current skills:
 
-🟧 HTML5 / 🟦 CSS3 / 🟨 JAVASCRIPT / 🐍 PYTHON
+🟧 HTML5 / 🟦 CSS3 / 🟨 JAVASCRIPT / 🐍 PYTHON / NODEJS
 
 Skills in progress:
 
