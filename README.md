@@ -12,6 +12,7 @@ I have always been a very curious person, and I would never stop studying about 
   
 I want to use my creativity and effort to develop some innovations of my own 💡. In order to do that, I understand that I must always improve my skills and share my knowledge with awesome people 🤝! Therefore, feel free to contact me through my e-mail:
   
-✉ antoniovpiresnt@gmail.com
+  Contact: antoniovpiresnt@gmail.com
+Portfolio: https://antoniovpires.github.io/personal-portfolio/
 
                                                                🖖
