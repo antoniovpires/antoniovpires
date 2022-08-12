@@ -14,15 +14,4 @@ I want to use my creativity and effort to develop some innovations of my own �
   
 ✉ antoniovpiresnt@gmail.com
 
-Currently, I am working on my own projects to acquire experience and boost my confidence 📚. They are all simple/fictional projects, but they all involve JavaScript, HTML and CSS 👨‍💻. With Python, I have developed some solutions for my own e-commerce 🛒. I would love to be part of projects that seek technological solutions for environmental and/or social problems!
-
-
-My current skills:
-
-🟧 HTML5 / 🟦 CSS3 / 🟨 JAVASCRIPT / 🐘 PHP / 🐍 PYTHON / NODEJS
-
-Skills in progress:
-
-⚛ REACT / 🎸 ELECTRIC GUITAR / 🦙 SPANISH
-
 🖖
