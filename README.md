@@ -14,5 +14,3 @@ I want to use my creativity and effort to develop some innovations of my own ðŸ’
   
   Contact: antoniovpiresnt@gmail.com <br>
 Portfolio: https://antoniovpires.github.io/personal-portfolio/
-
-                                                               ðŸ––
