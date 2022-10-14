@@ -8,9 +8,10 @@ I'm Antônio, a 23yo developer from Brazil 🟩🟨
 </div>
 <br>
 
-I have always been a very curious person, and I would never stop studying about the most diverse subjects 🧐. I am a self-taught programmer, and also a bachelor in International Relations 🌎. What drove me to programming/web developing is the possibility to help people through technology. 
+I am a self-taught programmer, a Software Analysis and Development undergraduate and also a bachelor in International Relations 🌎. What made me choose development as a career is the possibility to help people, companies and public entities through technology. 
   
-I want to use my creativity and effort to develop some innovations of my own 💡. In order to do that, I understand that I must always improve my skills and share my knowledge with awesome people 🤝! Therefore, feel free to contact me through my e-mail:
-  
-  Contact: antoniovpiresnt@gmail.com <br>
-Portfolio: https://antoniovpires.github.io/personal-portfolio/
+I want to use my creativity as fuel for innovations 💡. In order to do that, I understand that I need to be constantly studying, practicing and sharing my knowledge with others 🤝! 
+
+Feel free to contact me through my e-mail:<br>
+✉ antoniovpiresnt@gmail.com <br>
+🌐 https://antoniovpires.github.io/personal-portfolio/
