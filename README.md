@@ -1,13 +1,30 @@
-Hey 👋 <br> 
-I'm Antônio, a 25yo developer from Brazil 🟩🟨
+# 🧙‍♂️ Antonio Pires
 
+**`Digital Craftsman (Developer/Creator/Entrepreneur)`**
 
-<br>
+I am a self-taught programmer passionate about leveraging technology to solve real-world problems. With a background in International Relations and currently pursuing a degree in Software Analysis and Development, my mission is to create innovative solutions that help people, businesses, and public institutions thrive. I believe that creativity fuels innovation, and to stay ahead, I am constantly learning, building, and sharing knowledge with the community.
 
-I am a self-taught programmer, a Software Analysis and Development undergraduate and also a bachelor in International Relations 🌎. What made me choose development as a career is the possibility to help people, companies and public entities through technology. 
+Beyond development, I aspire to become a professor, helping others grow and shaping the next generation of problem-solvers.
+
+## ⚙️ Languagues and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,jquery,vue,react,bootstrap,tailwind,docker,mysql,postgresql,linux,aws)](https://skillicons.dev)
+
+## 🔥 Featured Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovpires&repo=sold_by_amazon)](https://github.com/antoniovpires/sold_by_amazon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovpires&repo=ez-youtube-downloader)](https://github.com/antoniovpires/ez-youtube-downloader)
+
+#
+
+<details>
+  <summary><h3>🚀 My Stats</h3></summary>
+
+  <br>
   
-I want to use my creativity as fuel for innovations 💡. In order to do that, I understand that I need to be constantly studying, practicing and sharing my knowledge with others 🤝! 
+  [![Codewars Badge](https://www.codewars.com/users/antoniovpires/badges/large)](https://www.codewars.com/users/antoniovpires)
 
-Feel free to contact me through my e-mail:<br>
-✉ antoniovpiresnt@gmail.com <br>
-🌐 https://antoniovpires.github.io/personal-portfolio/
+  <br>
+  
+  [![Antoniovpires's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniovpires&show_icons=true&theme=tokyonight)](https://github.com/antoniovpires/github-readme-stats)
+</details>
+
